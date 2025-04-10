@@ -1,0 +1,1 @@
+A quick test discord bot to use on some of my firends discord servers
